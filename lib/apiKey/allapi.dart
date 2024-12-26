@@ -1,4 +1,4 @@
-String apiKey = 'ae3df9ff0a4e2ad5e1fd25b3c3c1bd26';
+String apiKey = 'Add Your Api Key';
 
 String trendingweekurl =
     'https://api.themoviedb.org/3/trending/all/week?api_key=$apiKey';
